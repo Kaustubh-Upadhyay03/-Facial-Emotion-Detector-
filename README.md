@@ -1,5 +1,5 @@
-# EmotionLens
-A full-stack Python application built with Keras, Numpy, and deployed in Flask that recognizes facial expressions from a webcam or video using a trained neural network.
+# Facial Emotion Detector 
+A full-stack Python application built with Pytorch, Numpy, and deployed in Flask that recognizes facial expressions from a webcam or video using a trained neural network.
 
 To use, <code>pip install</code> all the dependencies from <code>requirements.txt</code> and run <code>main.py</code> on your local environment.
 The neural network is trained on almost 40,000 images, and has an accuracy of about 84%. 
